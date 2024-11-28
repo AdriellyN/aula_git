@@ -1,3 +1,5 @@
 A turma Javascript 06 é top!
 
-Melhor turma.
+A turma JavaScript 06 é Mara!
+
+Hello World! Estou livre da Maldição!
